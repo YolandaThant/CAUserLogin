@@ -38,5 +38,6 @@ public interface LoginUserDataAccessInterface {
      * Returns the name of the current user.
      * @return name of the current user.
      */
+    // Task 2.2
     String getCurrentUser();
 }
